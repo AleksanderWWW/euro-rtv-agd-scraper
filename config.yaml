@@ -1,0 +1,8 @@
+resources:
+  web:
+    base_url: https://www.euro.com.pl/laptopy-i-netbooki,strona-{}.bhtml
+
+settings:
+  num_pages: 10
+  logging_fmt: "%(asctime)s %(levelname)s - %(funcName)s - %(message)s"
+  save_file_name: results.json

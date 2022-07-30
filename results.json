@@ -1,0 +1,3362 @@
+[
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win11",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 15ITL6 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP 15s-eq2202nw 15,6\" AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 17ITL6 17,3\" Intel\u00ae Core\u2122 i3-1115G4 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2299.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1600 x 900 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1115G4 3,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 3525-6518 15,6\" 120Hz AMD Ryzen 5 5625U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5625U 2,3 - 4,3 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-d0242nw 16,1\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4699.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 2933 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook Flip 13 UX363EA-EM994AW 13,3\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3699.0,
+        "spec": {
+            "Ekran": "13,3 cala, ekran dotykowy 1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-eg0312nw 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 3099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop realme Book Prime 14\" Intel\u00ae Core\u2122 i5-11320H - 16GB RAM - 512GB Dysk - Win11 (szary)",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "14 cali,  2160 x 1440 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11320H 3,2 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Envy 14-eb0212nw 14\" Intel\u00ae Core\u2122 i7-11370H - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1200 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11370H 3,3 - 4,8 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 15 K3500PC-L1328W OLED 15,6\" Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F15 FX506HE-HN012W 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 16-c0322nw 16,1\" 144Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RX6600 Grafika - Win11",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon RX 6600 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 8GB RAM - 256GB Dysk - macOS (z\u0142oty) US",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming A15 FA506IHRB-HN082W 15,6''144Hz AMD Ryzen 5 4600H - 16GB RAM - 512GB Dysk - GTX1650 Grafika - Win11",
+        "price": 3699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 4600H 3,0 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX\u2122 1650 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515JA-BQ1991W 15,6\" Intel\u00ae Core\u2122 i5-1035G1 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2749.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F15 FX506HC-HN004W 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 3899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-55-539F 15,6\" 144Hz Intel\u00ae Core\u2122 i5-10300H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 10300H 2,5 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win11",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 4599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS E410MA-BV1422WS 14\" Intel\u00ae Celeron\u2122 N4020 - 4GB RAM - 128GB Dysk - Win11S",
+        "price": 1299.0,
+        "spec": {
+            "Ekran": "14 cali,  1366 x 768 pikseli",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4020 1,1 - 2,8 GHz",
+            "Pami\u0119\u0107": "4 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics 600",
+            "Dysk": "128 GB eMMC",
+            "System operacyjny": "Windows 11 S"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-e0202nw 16,1\" 144Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 16GB RAM - 256GB Dysk - macOS (gwiezdna szaro\u015b\u0107)",
+        "price": 6299.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515JA-BQ2625W 15,6\" Intel\u00ae Core\u2122 i3-1005G1 - 8GB RAM - 256GB Dysk - Win11S",
+        "price": 2399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 10gen 1005G1 1,2 - 3,4 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 11 S"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook 13 UX325EA-KG649W OLED 13,3\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "13,3 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 15IIL05 15,6\" Intel\u00ae Core\u2122 i5-1035G1 - 8GB RAM - 512GB Dysk",
+        "price": 2099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2666 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 3525-6518 15,6\" 120Hz AMD Ryzen 5 5625U - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5625U 2,3 - 4,3 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Chromebook CX1 CX1400CNA-BV0140 14\" Intel\u00ae Celeron\u2122 N3550 - 4GB RAM - 64GB Dysk - ChromeOS",
+        "price": 1329.0,
+        "spec": {
+            "Ekran": "14 cali,  1366 x 768 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Celeron\u00ae N3350 1,1 - 2,4 GHz",
+            "Pami\u0119\u0107": "4 GB  LPDDR4 RAM",
+            "Grafika": "Intel\u00ae HD Graphics 500",
+            "Dysk": "64 GB eMMC",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 Ryzen Edition 5515-9281 15,6\" 120Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 5310-1678 13,3\" Intel\u00ae Core\u2122 i5-11320H - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3499.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11320H 2,5 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X 4267 Mhz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F15 FX506HEB-HN153T 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Katana GF76 11UD-685PL 17,3\"144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-eh1112nw 15,6\" AMD Ryzen 7 5700U - 16GB RAM - 1TB Dysk - Win11",
+        "price": 3499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 5700U 1,8 - 4,3 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 14,2\" Apple M1 Pro - 16GB RAM - 512GB Dysk - macOS (gwiezdna szaro\u015b\u0107)",
+        "price": 11499.0,
+        "spec": {
+            "Ekran": "14,2 cala,  3024 x 1964 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (14-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Acer Chromebook CB314-2H-K7U6 14\" MediaTek MB8183 - 4GB RAM - 128GB Dysk - ChromeOS",
+        "price": 1199.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "MediaTek\u2122 Kompanio 500 M8183 2 GHz",
+            "Pami\u0119\u0107": "4 GB  LPDDR4X RAM",
+            "Grafika": "ARM\u00ae Mali-G72",
+            "Dysk": "128 GB SSD",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop Acer Aspire 5 A514-54-57KA 14\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2999.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-56-58VF 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223050 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Katana GF66 11UD-1222PL 15,6\"144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - GTX1650 Grafika - Win10",
+        "price": 3499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX\u2122 1650 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 17ACH6 17,3\" 144Hz AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - RTX3050 Grafika - Win10",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 5511-6204 15,6\" 120Hz Intel\u00ae Core\u2122 i5-11260H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11260H 2,6 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 16GB RAM - 256GB Dysk - macOS (srebrny)",
+        "price": 6399.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-ec2196nw 15,6\" AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G17 G713IM-HX055W 17,3\" 144Hz AMD Ryzen 7 4800H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 4800H 2,9 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3060 + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN517-54-57JL 17,3\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel Iris UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 3525-6549 15,6\" 120Hz AMD Ryzen 7 5825U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5825U 2,0 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515JA-BQ1997W 15,6\" Intel\u00ae Core\u2122 i5-1035G1 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 16 16\" Intel\u00ae Core\u2122 i7-12700H - 16GB RAM - 512GB Dysk - Win11",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "16 cali,  1920 x 1200 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 G513IM-HN008W 15,6\" 144Hz AMD Ryzen 7 4800H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win11",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 4800H 2,9 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 8GB RAM - 256GB Dysk - macOS (srebrny) US",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS VivoBook 15 K513EA-L11957W OLED 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 16 16\" Intel\u00ae Core\u2122 i5-12450H - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "16 cali,  1920 x 1200 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12450H 3,3 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 14IIL05 14\" Intel\u00ae Core\u2122 i5-1035G1 - 8GB RAM - 256GB Dysk",
+        "price": 2199.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2666 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 16GB RAM - 256GB Dysk - macOS (z\u0142oty)",
+        "price": 6399.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Yoga Slim 7 Pro 14ACH5 14\" AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - Win11",
+        "price": 3849.0,
+        "spec": {
+            "Ekran": "14 cali,  2240 x 1400 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 15 3511-8321 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" 120Hz AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - GTX1650 Grafika - Win11",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX\u2122 1650 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 15ADA05 15,6\" AMD Ryzen 5 3500U - 8GB RAM - 256GB Dysk",
+        "price": 1899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 3500U 2,1 - 3,7 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2400 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Vega 8",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - RTX3050 Grafika",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 Ryzen Edition 5515-8093 15,6\" 120Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3060 Grafika - Win11",
+        "price": 5499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo ThinkBook 14 IIL 14\" Intel\u00ae Core\u2122 i5-1035G1 - 8GB RAM - 256GB Dysk",
+        "price": 2839.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2666 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3060 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-58-53F4 15,6\" 165Hz Intel\u00ae Core\u2122 i5-12500H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win11",
+        "price": 6999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12500H 3,3 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223060 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 14ARE05 14\" AMD Ryzen 5 4500U - 16GB RAM - 512GB Dysk",
+        "price": 2429.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 4500U 2,3 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G14 GA401QC-K2116T Matrix 14\"120Hz AMD Ryzen 7 5800HS - 16GB RAM - 512GB Dysk - RTX3050 Grafika - W10",
+        "price": 4799.0,
+        "spec": {
+            "Ekran": "14 cali,  2560 x 1440 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800HS 2,8 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 G513IM-HN008 15,6\" 144Hz AMD Ryzen 7 4800H - 16GB RAM - 512GB Dysk - RTX3060 Grafika",
+        "price": 5699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 4800H 2,9 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN517-55-75H9 17,3\" 144Hz Intel\u00ae Core\u2122 i7-12700H - 16GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 5699.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Acer Aspire 3 A314-35-C3WC 14\" Intel\u00ae Celeron\u2122 N4500 - 8GB RAM - 256GB Dysk - Win11",
+        "price": 1699.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4500 1,1 - 2,8 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 11 S"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F17 FX706HC-HX007 17,3\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15IHU6 15,6\" 120Hz Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 512GB Dysk - GTX1650 Grafika - Win11",
+        "price": 3599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX\u2122 1650 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Zenbook 14X UM5401QA-KN018W OLED 14\" AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - Win11",
+        "price": 5999.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 2880 x 1800 pikseli 90 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F15 FX506HEB-HN187 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 15 15,6\" Intel\u00ae Core\u2122 i3-1115G4 - 8GB RAM - 256GB Dysk - Win11",
+        "price": 2399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1115G4 1,7 - 3,0 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Gigabyte G5 KD 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3060 Grafika",
+        "price": 4699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3060 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop MSI Raider GE66 12UH-247PL 15,6\" 240Hz Intel\u00ae Core\u2122 i7-12700H - 32GB RAM - 1TB SSD Dysk - RTX3080 - Win11",
+        "price": 12999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 240 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3080 + Intel Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 16 16\" Intel\u00ae Core\u2122 i5-12450H - 8GB RAM - 512GB Dysk - Win11",
+        "price": 3699.0,
+        "spec": {
+            "Ekran": "16 cali,  1920 x 1200 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12450H 3,3 - 4,4 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo V15 IML 15,6\" Intel\u00ae Core\u2122 i3-10110U - 8GB RAM - 256GB Dysk",
+        "price": 1799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 10gen 10110U 2,1 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2666 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M1 13,3\" Apple M1 - 8GB RAM - 512GB Dysk - macOS (srebrny)",
+        "price": 7599.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (8-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F17 FX706HC-HX007W 17,3\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 4499.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Aspire 3 A317-53-33NX 17,3\" Intel\u00ae Core\u2122 i3-1115G4 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2999.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1115G4 3,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Yoga 7 14ITL5 14\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP 15s-eq2152nw 15,6\" AMD Ryzen 3 5300U - 8GB RAM - 256GB Dysk - Win11",
+        "price": 2299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 3 5300U 2,6 - 3,8 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion Aero 13-be0102nw 13,3'' AMD Ryzen 5 5600U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3499.0,
+        "spec": {
+            "Ekran": "13,3 cala,  1920 x 1200 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5600U 2,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP 15s-fq2222nw 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2666 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP 15s-eq2176nw 15,6\" AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 Pro 16ACH6 16\" 120Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3949.0,
+        "spec": {
+            "Ekran": "16 cali,  2560 x 1600 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 3899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-eh0005nw 15,6\" AMD Ryzen 7 4700U - 8GB RAM - 512GB Dysk - Win10",
+        "price": 2899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 4700U 2,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS X513EA-BQ2811W 15,6\" Intel\u00ae Core\u2122 i3-1125G4 - 8GB RAM - 256GB Dysk - Win11S",
+        "price": 2599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1125G4 2,0 - 3,7 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 11 S"
+        }
+    },
+    {
+        "name": "Laptop Lenovo V15 IGL 15,6\" Intel\u00ae Celeron\u2122 N4020 - 8GB RAM - 256GB Dysk - Win10",
+        "price": 1749.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4020 1,1 - 2,8 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 2400 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics 600",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming A15 2022 FA507RE-HN031 15,6'' 144Hz AMD Ryzen 7 6800H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122 680M",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-eg1152nw 15,6\" Intel\u00ae Core\u2122 i5-1155G7 - 16GB RAM - 1TB Dysk - Win11",
+        "price": 3599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1155G7 2,5 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Chromebook CB314-1H-C3JX 14\" Intel\u00ae Celeron\u2122 N4020 4GB RAM - 128GB Dysk - ChromeOS",
+        "price": 1299.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4020 1,1 GHz",
+            "Pami\u0119\u0107": "4 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics 600",
+            "Dysk": "128 GB SSD",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G17 2022 G713RM-LL044W 17,3\" 240Hz AMD Ryzen 7 6800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 8199.0,
+        "spec": {
+            "Ekran": "17,3 cala,  2560 x 1440 pikseli 240 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 15ITL6 15,6\" Intel\u00ae Core\u2122 i3-1115G4 - 8GB RAM - 512GB Dysk - Win11S",
+        "price": 2399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1115G4 3,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 S"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro K3400PA-KM026T OLED 14\" Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 512GB Dysk - Win10",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "14 cali,  2880 x 1800 pikseli 90 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3070 Grafika - Win10",
+        "price": 7499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 17-ck0213nw 17,3'' 144Hz Intel\u00ae Core\u2122 i7-11800H - 32GB RAM - 1TB SSD Dysk - RTX3070 Grafika - Win11",
+        "price": 9299.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Toshiba Satellite Pro C50-H-10W 15,6\" Intel\u00ae Core\u2122 i3-1005G1 - 16GB RAM - 256GB Dysk",
+        "price": 1899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 10gen 1005G1 1,2 - 3,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G15 2022 GA503RM-HQ009W 15,6\" 165Hz AMD Ryzen 7 6800HS - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 8499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800HS 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122 680M Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 15 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M2 13,3\" Apple M2 - 8GB RAM - 256GB Dysk - macOS (gwiezdna szaro\u015b\u0107) US",
+        "price": 7299.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M2",
+            "Pami\u0119\u0107": "8 GB  zunifikowana RAM",
+            "Grafika": "Apple M2 (10-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3070 Grafika",
+        "price": 7099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 14ARE05 14\" AMD Ryzen 7 4700U - 8GB RAM - 512GB Dysk",
+        "price": 2599.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 4700U 2,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Microsoft Surface Laptop Go 12,4\" Intel\u00ae Core\u2122 i5-1035G1 - 8GB RAM - 256GB Dysk - Win10S (platynowy)",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "12,4 cala, ekran dotykowy 1536 x 1024 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 10 S (mo\u017cliwo\u015b\u0107 darmowej aktualizacji do Windows 11)"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-e0212nw 16,1\" 144Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3060 Grafika - Win11",
+        "price": 5999.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 AE G513QY-HQ025W 15,6\" 165Hz AMD Ryzen 9 5980HX - 16GB RAM - 512GB Dysk - RX6800 Grafika - Win11",
+        "price": 7299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 9 5980HX 3,3 - 4,8 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 RX 6800M + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook 14 UM425UA-KI216T 14'' AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 8GB RAM - 256GB Dysk - macOS (z\u0142oty) Cyrylica",
+        "price": 5399.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS VivoBook X513EP-BQ1140A 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - MX330 Grafika",
+        "price": 2999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce MX 330 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F15 FX506HE-HN012 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS Zenbook 14 Flip UP5401EA-KN124W OLED 14\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 1TB Dysk - Win11",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 2880 x 1800 pikseli 90 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Dash F15 2022 FX517ZM-HN128W 15,6\" 144Hz Intel\u00ae Core\u2122 i7-12650H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12650H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Chromebook CX1 CX1500CKA-EJ0061 15,6\" Intel\u00ae Celeron\u2122 N4500 - 4GB RAM - 64GB Dysk - ChromeOS",
+        "price": 1519.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1366 x 768 pikseli",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4500 1,1 - 2,8 GHz",
+            "Pami\u0119\u0107": "4 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "64 GB eMMC",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop ASUS VivoBook 15 M513IA-BQ434 15,6\" AMD Ryzen 5 4500U - 8GB RAM - 512GB Dysk",
+        "price": 2599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 4500U 2,3 - 4,0 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook 14 UM425UA-KI219T 14\" AMD Ryzen 7 5700U - 16GB RAM - 512GB Dysk - Win10",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 5700U 1,8 - 4,3 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus M16 GU603HE-KR031T 16\" 144Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 7299.0,
+        "spec": {
+            "Ekran": "16 cali,  1920 x 1200 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - RTX3050 Grafika",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion S7 15ACH6 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 5499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-e0262nw 16,1\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3060 Grafika",
+        "price": 6499.0,
+        "spec": {
+            "Ekran": "16,1 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP ENVY 17-ch1112nw 17,3\" Intel\u00ae Core\u2122 i7-1195G7 - 32GB RAM - 1TB SSD Dysk - Win11",
+        "price": 7299.0,
+        "spec": {
+            "Ekran": "17,3 cala,  3840 x 2160 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1195G7 2,9 - 5,0 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Aspire 5 A515-45-R68G 15,6\" AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming F15 FX506HEB-HN188W 15,6\" 144Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ITH6H 15,6\" 165Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win11",
+        "price": 5999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060+ Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook 16s 16\" Intel\u00ae Core\u2122 i7-12700H - 16GB RAM - 1TB Dysk - Win11",
+        "price": 7499.0,
+        "spec": {
+            "Ekran": "16 cali,  2520 x 1680 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G14 GA401QE AniMe Matrix 14\"120Hz AMD Ryzen 7 5800HS - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - W10",
+        "price": 5299.0,
+        "spec": {
+            "Ekran": "14 cali,  2560 x 1440 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800HS 2,8 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Toshiba Satellite Pro C50-H-11E 15,6\" Intel\u00ae Core\u2122 i5-1035G1 - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 5310-1715 13,3\" Intel\u00ae Core\u2122 i7-11390H - 16GB RAM - 512GB Dysk - Win10",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11390H 3,4 - 5,0 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X 4267 Mhz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Lenovo Legion 7 15IMH05 15,6\" 144Hz Intel\u00ae Core\u2122 i7-10750H - 16GB RAM - 1TB SSD Dysk - RTX2080SMQ Grafika",
+        "price": 9399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 10gen 10750H 2,6 - 5,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 2933 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 2080 Super Max-Q + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 14-ec0102nw 14\" AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3199.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Flow Z13 2022 GZ301ZE-LD183W 13,4\" 120Hz Intel\u00ae Core\u2122 i9-12900H - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 8499.0,
+        "spec": {
+            "Ekran": "13,4 cala, ekran dotykowy 1920 x 1200 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i9 12gen 12900H 3,8 - 5,0 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR5 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel Iris Xe  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 14,2\" Apple M1 Pro - 16GB RAM - 512GB Dysk - macOS (srebrny)",
+        "price": 10999.0,
+        "spec": {
+            "Ekran": "14,2 cala,  3024 x 1964 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (14-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 5415-7554 14'' AMD Ryzen 5 5500U - 8GB RAM - 512GB Dysk - Win10",
+        "price": 2999.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN517-41-R8QC 17,3\" 144Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4699.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-58-55KH 15,6\" 144Hz Intel\u00ae Core\u2122 i5-12500H - 8GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12500H 3,3 - 4,5 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223050 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515EA-BQ1734W 15,6\" Intel\u00ae Core\u2122 i3-1115G4 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1115G4 3,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 14,2\" Apple M1 Pro - 16GB RAM - 1TB Dysk - macOS (srebrny)",
+        "price": 12499.0,
+        "spec": {
+            "Ekran": "14,2 cala,  3024 x 1964 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (16-rdzeni)",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 16,2\" Apple M1 Pro - 16GB RAM - 512GB Dysk - macOS (gwiezdna szaro\u015b\u0107) US",
+        "price": 13299.0,
+        "spec": {
+            "Ekran": "16,2 cala,  3456 x 2234 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (16-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 15 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win10",
+        "price": 2899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Zenbook 14X UM5401QA-KN185W OLED 14\" AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - Win11",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 2880 x 1800 pikseli 90 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Raider GE67HX 12UHS-051PL OLED 15,6\" 240Hz Intel\u00ae Core\u2122 i7-12800HX - 32GB RAM - 2TB Dysk - RTX 3080 Ti Grafika - Win11",
+        "price": 17899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 240 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12800HX 3,4 - 4,8 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae NVIDIA GeForce RTX 3080 Ti",
+            "Dysk": "2 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 5511-9137 15,6\" 120Hz Intel\u00ae Core\u2122 i5-11400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11400H 2,7 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M2 13,3\" Apple M2 - 16GB RAM - 512GB Dysk - macOS (gwiezdna szaro\u015b\u0107) US",
+        "price": 9699.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M2",
+            "Pami\u0119\u0107": "16 GB  zunifikowana RAM",
+            "Grafika": "Apple M2 (10-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Microsoft Surface Pro 8 13\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 128GB Dysk - Win11 (platynowy)",
+        "price": 4599.0,
+        "spec": {
+            "Ekran": "13 cali, ekran dotykowy 2880 x 1920 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "128 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 7400-6414 14,5\" Intel\u00ae Core\u2122 i7-1165G7 - 8GB RAM - 512GB Dysk - Win10",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "14,5 cala,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1165G7 2,8 - 4,7 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 Pro 16ACH6 16\" 120Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - Win11",
+        "price": 4599.0,
+        "spec": {
+            "Ekran": "16 cali,  2560 x 1600 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15IHU6 15,6\" Intel\u00ae Core\u2122 i5-11300H - 8GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 3199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-58-736U 15,6\" 165Hz Intel\u00ae Core\u2122 i7-12700H - 32GB RAM - 1TB Dysk - RTX3070Ti Grafika - Win11",
+        "price": 8999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223070 Ti + Intel Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook Flip 13 UX363EA-HP555W OLED 13,3\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 4499.0,
+        "spec": {
+            "Ekran": "13,3 cala, ekran dotykowy 1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 2022 G513RM-HQ080W 15,6\" 165Hz AMD Ryzen 7 6800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 16X M7600QE-L2014R OLED 16\" AMD Ryzen 9 5900HX - 32GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win10 Pro",
+        "price": 8399.0,
+        "spec": {
+            "Ekran": "16 cali,  3840 x 2400 pikseli",
+            "Procesor": "AMD Ryzen\u2122 9 5900HX 3,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Professional"
+        }
+    },
+    {
+        "name": "Laptop Acer Chromebook CB314-1H-P0S6 14\" Intel\u00ae Pentium\u2122 N5030 4GB RAM - 64GB Dysk - ChromeOS",
+        "price": 1049.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Pentium\u00ae N5030 1,1 - 3,1 GHz",
+            "Pami\u0119\u0107": "4 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics 605",
+            "Dysk": "64 GB SSD",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 2022 G513RC-HN007W 15,6\" 144Hz AMD Ryzen 7 6800H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122 680M",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G14 GA401QC-HZ010T Matrix 14\"144Hz AMD Ryzen 7 5800HS - 16GB RAM - 512GB Dysk - RTX3050 Grafika - W10",
+        "price": 4919.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800HS 2,8 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion S7 15ACH6 15,6\" 165Hz AMD Ryzen 7 5800H - 32GB RAM - 1TB SSD Dysk - RTX3050Ti Grafika - Win10",
+        "price": 7299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-e0121nw 16,1\" AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook Duo UX482EGR-HY356W 14\" Intel\u00ae Core\u2122 i7-1195G7 - 32GB RAM - 1TB Dysk - MX450 Grafika - Win11",
+        "price": 7509.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1195G7 2,9 - 5,0 GHz",
+            "Pami\u0119\u0107": "32 GB  LPDDR4X RAM",
+            "Grafika": "NVIDIA\u00ae GeForce MX 450 + Intel Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-45-R1MW 15,6\" 144Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RTX3070 Grafika - Win11",
+        "price": 6499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 16 16,1\" AMD Ryzen 5 4600H - 16GB RAM - 512GB Dysk - Win10",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 4600H 3,0 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 15-en0028nw 15,6\" AMD Ryzen 5 4600H - 8GB RAM - 512GB Dysk - GTX1650Ti Grafika",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 4600H 3,0 - 4,0 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX\u2122 1650 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G14 2022 GA402RJ Matrix 14\"144Hz AMD Ryzen 7 6800HS - 16GB RAM - 512GB Dysk - RX6700S Grafika - W11",
+        "price": 8499.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1200 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800HS 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "AMD Radeon\u2122 RX 6700S + AMD Radeon\u2122 680M",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop realme Book Prime 14\" Intel\u00ae Core\u2122 i5-11320H - 16GB RAM - 512GB Dysk - Win11 (zielony)",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "14 cali,  2160 x 1440 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11320H 3,2 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP 15s-eq2162nw 15,6\" AMD Ryzen 3 5300U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 2699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 3 5300U 2,6 - 3,8 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 16,2\" Apple M1 Max - 32GB RAM - 1TB Dysk - macOS (gwiezdna szaro\u015b\u0107) US",
+        "price": 17999.0,
+        "spec": {
+            "Ekran": "16,2 cala,  3456 x 2234 pikseli 120 Hz",
+            "Procesor": "Apple M1 Max",
+            "Pami\u0119\u0107": "32 GB   RAM",
+            "Grafika": "Apple M1 Max (32-rdzenie)",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M2 13,3\" Apple M2 - 16GB RAM - 256GB Dysk - macOS (srebrny)",
+        "price": 8399.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M2",
+            "Pami\u0119\u0107": "16 GB  zunifikowana RAM",
+            "Grafika": "Apple M2 (10-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 5511-9236 15,6\" 360Hz Intel\u00ae Core\u2122 i7-11800H - 32GB RAM - 1TB SSD Dysk - RTX3060 Grafika - Win11",
+        "price": 8799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 360 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 5511-6259 15,6\" 120Hz Intel\u00ae Core\u2122 i5-11260H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11260H 2,6 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 2022 G513RM-HQ219W 15,6\" 165Hz AMD Ryzen 7 6800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122 680M",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN517-41-R56V 17,3\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB SSD Dysk - RTX3080 Grafika - Win10",
+        "price": 8659.0,
+        "spec": {
+            "Ekran": "17,3 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3080 + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS E510KA-BR114 15,6\" Intel\u00ae Celeron\u2122 N4500 - 4GB RAM - 256GB Dysk",
+        "price": 1399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1366 x 768 pikseli",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4500 1,1 - 2,8 GHz",
+            "Pami\u0119\u0107": "4 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 14 M3401QC-KM043W OLED 14\" AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "14 cali,  2880 x 1800 pikseli 90 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-58-74RE 15,6\" 165Hz Intel\u00ae Core\u2122 i7-12700H - 16GB RAM - 512GB Dysk - RTX3070Ti Grafika",
+        "price": 7799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223070 Ti + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 17-ck0222nw 17,3'' 165Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "17,3 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop MSI Vector GP76 12UGS-462PL 17,3\" 360Hz Intel\u00ae Core\u2122 i7-12700H - 16GB RAM - 1TB SSD Dysk - RTX3070Ti Grafika - Win11",
+        "price": 10399.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 360 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 Ti + Intel Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "ASUS Zenbook 14X OLED UX5401ZA-L7056W 14\" Intel Cor i5-12500H - 16GB RAM - 1TB Dysk - Win11",
+        "price": 5799.0,
+        "spec": {
+            "Ekran": "14 cali,  2880 x 1800 pikseli 90 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12500H 3,3 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR5 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G14 GA401QE AniMe MatrixGr 14\" AMD Ryzen 7 5800HS - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - W10",
+        "price": 6899.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800HS 2,8 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-58-58BD 15,6\" 144Hz Intel\u00ae Core\u2122 i5-12400H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 5899.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12500H 3,3 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223050 Ti + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop LG Gram 17'' 2021 17Z90P-G.AA65Y Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB SSD Dysk - Win11",
+        "price": 4699.0,
+        "spec": {
+            "Ekran": "17 cali,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook 14 UX3402ZA-KP088W 14'' Intel\u00ae Core\u2122 i5-1240P - 16GB RAM - 512GB Dysk - Win11",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "14 cali,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 1240P 3,3 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR5 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Gigabyte A5 K1 15,6\" 240Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 240 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3060 + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-e0502nw 16,1\" 144Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6299.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ITH6 15,6\" 165Hz Intel\u00ae Core\u2122 i7-11800H - 8GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 4599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050+ Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS X513EA-BQ2811 15,6\" Intel\u00ae Core\u2122 i3-1125G4 - 8GB RAM - 256GB Dysk",
+        "price": 1999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1125G4 2,0 - 3,7 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 16X N7600PC-L2012R OLED 16\" Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win10 Pro",
+        "price": 6299.0,
+        "spec": {
+            "Ekran": "16 cali,  3840 x 2400 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Professional"
+        }
+    },
+    {
+        "name": "Laptop ASUS Zenbook 14 Flip UN5401QA-KN163W OLED 14\" AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - Win11",
+        "price": 4799.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 2880 x 1800 pikseli 90 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 8GB RAM - 256GB Dysk - macOS (srebrny) Cyrylica",
+        "price": 5399.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515JA-BQ2633 15,6\" Intel\u00ae Core\u2122 i5-1035G1 - 8GB RAM - 256GB Dysk",
+        "price": 1999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 1035G1 1,0 - 3,6 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 2022 G513RW-HQ142W 15,6\" 165Hz AMD Ryzen 7 6800H - 16GB RAM - 1TB Dysk - RTX3070Ti Grafika - Win11",
+        "price": 8799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 Ti",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook Flip 13 UX363EA-HP555T OLED 13,3\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win10",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "13,3 cala, ekran dotykowy 1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN517-54-7118 17,3\" 165Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 1TB SSD Dysk - RTX3070 Grafika - Win10",
+        "price": 8499.0,
+        "spec": {
+            "Ekran": "17,3 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-eg0062nw 15,6\" Intel\u00ae Core\u2122  i5-1135G7 - 8GB RAM - 512GB Dysk",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS X415JA-EB591 14\" Intel\u00ae Core\u2122 i3-1005G1 - 8GB RAM - 512GB Dysk",
+        "price": 2299.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 10gen 1005G1 1,2 - 3,4 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook 14s 14,2\" Intel\u00ae Core\u2122 i5-11300H - 8GB RAM - 512GB Dysk - Win10",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "14,2 cala, ekran dotykowy 2520 x 1680 pikseli 90 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Aspire 3 A317-53-79XW 17,3\" Intel\u00ae Core\u2122 i7-1165G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 4099.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1165G7 2,8 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 8GB RAM - 256GB Dysk - macOS (gwiezdna szaro\u015b\u0107) Cyrylica",
+        "price": 6399.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS ProArt Studiobook 16 H5600QM-L2208X OLED 16\" AMD Ryzen 9 5900HX - 32GB RAM - 1TB Dysk - RTX3060 Grafika - Win11 Pro",
+        "price": 9999.0,
+        "spec": {
+            "Ekran": "16 cali,  3840 x 2400 pikseli",
+            "Procesor": "AMD Ryzen\u2122 9 5900HX 3,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3060 + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Professional"
+        }
+    },
+    {
+        "name": "Laptop Acer Chromebook CB314-1H-C2GF 14\" Intel\u00ae Celeron\u2122 N4020 4GB RAM - 64GB Dysk - ChromeOS",
+        "price": 1149.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4020 1,1 GHz",
+            "Pami\u0119\u0107": "4 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics 600",
+            "Dysk": "64 GB SSD",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 5402-4275 14'' Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11 Pro",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Professional"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" 120Hz AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,3 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop MSI GF65 Thin 10UE-054PL 15,6\"144Hz Intel\u00ae Core\u2122 i5-10200H - 8GB RAM - 512GB Dysk - RTX3060 Grafika - Win10",
+        "price": 5099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 10200H 2,4 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 Pro 16ACH6 16\" AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - GTX1650 Grafika - Win11",
+        "price": 3949.0,
+        "spec": {
+            "Ekran": "16 cali,  2560 x 1600 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX 1650 + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 15 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI GF63 Thin 11UD-226PL 15,6\"144Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 5099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515JA-BQ2627W 15,6\" Intel\u00ae Core\u2122 i3-1005G1 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 10gen 1005G1 1,2 - 3,4 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-55-50U6 15,6\" 144Hz Intel\u00ae Core\u2122 i5-10300H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 10300H 2,5 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u21223050 Ti + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook 14 2021 14\" AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "14 cali,  2160 x 1440 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Flow X13 GV301QC-K6010T 13,4\" 120Hz AMD Ryzen 7 5800HS - 16GB RAM - 1TB Dysk - RTX3050 Grafika - Win10",
+        "price": 6299.0,
+        "spec": {
+            "Ekran": "13,4 cala, ekran dotykowy 1920 x 1200 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800HS 2,8 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M2 13,3\" Apple M2 - 8GB RAM - 256GB Dysk - macOS (srebrny)",
+        "price": 7499.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M2",
+            "Pami\u0119\u0107": "8 GB  zunifikowana RAM",
+            "Grafika": "Apple M2 (10-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika",
+        "price": 4799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M2 13,3\" Apple M2 - 8GB RAM - 512GB Dysk - macOS (gwiezdna szaro\u015b\u0107)",
+        "price": 8699.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M2",
+            "Pami\u0119\u0107": "8 GB  zunifikowana RAM",
+            "Grafika": "Apple M2 (10-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop HP ENVY x360 Convert 15-eu0202nw 15,6'' AMD Ryzen 5 5500U - 8GB RAM - 512GB Dysk - Win10",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "15,6 cala, ekran dotykowy 1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Katana GF66 11UE-805PL 15,6\"144Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion Aero 13-be0802nw 13,3'' AMD Ryzen 5 5600U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3899.0,
+        "spec": {
+            "Ekran": "13,3 cala,  1920 x 1200 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5600U 2,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Alienware x15 R2 15R2-4681 15,6\" 165Hz Intel\u00ae Core\u2122 i7-12700H - 32GB RAM - 1TB Dysk - RTX3080Ti Grafika - Win11",
+        "price": 18999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12700H 3,5 - 4,7 GHz",
+            "Pami\u0119\u0107": "32 GB  LPDDR5 5200 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3080 Ti + Intel Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo ThinkPad X1 Nano Gen 1 13\" Intel\u00ae Core\u2122 i5-1130G7 - 16GB RAM - 512GB Dysk - Win10 Pro",
+        "price": 11099.0,
+        "spec": {
+            "Ekran": "13 cali,  2160 x 1350 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1130G7 1,8 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4x 4266 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Professional"
+        }
+    },
+    {
+        "name": "Laptop HP Pavilion 15-ec1021nw 15,6\" AMD Ryzen 5 4600H - 8GB RAM - 512GB Dysk - GTX1650Ti Grafika",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 4600H 3,0 - 4,0 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX\u2122 1650 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - RTX3070 Grafika - Win11",
+        "price": 7999.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Pro M2 13,3\" Apple M2 - 16GB RAM - 512GB Dysk - macOS (srebrny) US",
+        "price": 9699.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M2",
+            "Pami\u0119\u0107": "16 GB  zunifikowana RAM",
+            "Grafika": "Apple M2 (10-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" 120Hz AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - RTX3050 Grafika - Win10",
+        "price": 3599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 15 5515-8154 15,6\" AMD Ryzen 5 5500U - 16GB RAM - 512GB Dysk - Win11",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Swift 3 14\" AMD Ryzen 7 4700U - 8GB RAM - 512GB Dysk - Win10",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 4700U 2 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 Pro 14ITL6 14\" Intel\u00ae Core\u2122 i7-1165G7 - 16GB RAM - 1TB Dysk  - Win11",
+        "price": 4299.0,
+        "spec": {
+            "Ekran": "14 cali,  2240 x 1400 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1165G7 2,8 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Raider GE77HX 12UHS-058PL 17,3\" 240Hz Intel\u00ae Core\u2122 i7-12800HX - 64GB RAM - 2TB SSD Dysk - RTX 3080 Ti Grafika - Win11",
+        "price": 19199.0,
+        "spec": {
+            "Ekran": "17,3 cala,  2560 x 1440 pikseli 240 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 12gen 12800HX 3,4 - 4,8 GHz",
+            "Pami\u0119\u0107": "64 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae NVIDIA GeForce RTX 3080 Ti",
+            "Dysk": "2 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Zephyrus G14 AW SE GA401QEC 14\" 120Hz AMD Ryzen 9 5900HS - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win10Pro",
+        "price": 7499.0,
+        "spec": {
+            "Ekran": "14 cali,  2560 x 1440 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 9 5900HS 3,0 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Professional"
+        }
+    },
+    {
+        "name": "Laptop LG Gram 14\" 14T90P-G.AA55Y Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win10",
+        "price": 4999.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 1920 x 1200 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Delta 15 A5EFK-079PL 15,6\" 240Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RX6700 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 240 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 RX 6700M + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 17-ck0212nw 17,3'' 144Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika",
+        "price": 6599.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D 15 15,6\" Intel\u00ae Core\u2122 i5-10210U - 8GB RAM - 512GB Dysk - Win10",
+        "price": 2699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 10gen 10210U 1,6 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook D14 14\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 3099.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Yoga Slim 7 Pro 14ACH5 14\" AMD Ryzen 9 5900HX - 16GB RAM - 1TB Dysk - Win11",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "14 cali,  2240 x 1400 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 9 5900HX 3,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 15ITL6 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook Pro 15 UM535QE-KJ180X 15,6\" AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win11 Pro",
+        "price": 6599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Professional"
+        }
+    },
+    {
+        "name": "Laptop Acer Chromebook CB315-3H-C2ED 15,6\" Intel\u00ae Celeron\u2122 N4020 8GB RAM - 128GB Dysk - ChromeOS",
+        "price": 1499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Celeron\u00ae N4020 1,1 - 2,8 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics 600",
+            "Dysk": "128 GB SSD",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop ASUS TUF Gaming A15 FA506ICB-HN119W 15,6''144Hz AMD Ryzen 5 4600H - 16GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 4699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 4600H 3,0 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae Geforce RTX 3050",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS X515JA-BQ2217W 15,6\" Intel\u00ae Core\u2122 i3-1005G1 - 8GB RAM - 512GB Dysk - Win11",
+        "price": 2499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i3 10gen 1005G1 1,2 - 3,4 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell Inspiron 7400-6407 14,5\" Intel\u00ae Core\u2122 i7-1165G7 - 16GB RAM - 1TB SSD Dysk - Win10",
+        "price": 5549.0,
+        "spec": {
+            "Ekran": "14,5 cala,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1165G7 2,8 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 14X M7400QE-KM031X OLED 14\" AMD Ryzen 9 5900HX - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win11 Pro",
+        "price": 7299.0,
+        "spec": {
+            "Ekran": "14 cali,  2880 x 1800 pikseli 90 Hz",
+            "Procesor": "AMD Ryzen\u2122 9 5900HX 3,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Professional"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G17 G713RW-LL108W 17,3\" 240Hz AMD Ryzen 7 6800H - 16GB RAM - 1TB Dysk - RTX3070Ti Grafika",
+        "price": 10299.0,
+        "spec": {
+            "Ekran": "17,3 cala,  2560 x 1440 pikseli 240 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3070Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 14,2\" Apple M1 Pro - 16GB RAM - 1TB Dysk - macOS (gwiezdna szaro\u015b\u0107)",
+        "price": 13499.0,
+        "spec": {
+            "Ekran": "14,2 cala,  3024 x 1964 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (16-rdzeni)",
+            "Dysk": "1 TB",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop HP Victus 16-e0512nw 16,1\" 144Hz AMD Ryzen 7 5800H - 32GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 14,2\" Apple M1 Max - 32GB RAM - 2TB Dysk - macOS (srebrny)",
+        "price": 17999.0,
+        "spec": {
+            "Ekran": "14,2 cala,  3024 x 1964 pikseli 120 Hz",
+            "Procesor": "Apple  M1 Max",
+            "Pami\u0119\u0107": "32 GB   RAM",
+            "Grafika": "Apple M1 Max (24-rdzenie)",
+            "Dysk": "2 TB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Yoga Slim 7 Pro 14IHU5 14\" Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 1TB Dysk - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "14 cali,  2240 x 1400 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,1 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4x 4266 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 2022 G513RC-HN035W 15,6\" 144Hz AMD Ryzen 7 6800H - 16GB RAM - 512GB Dysk - RTX3050 Grafika - Win11",
+        "price": 5499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122 680M",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS ZenBook 14 UM425UA-KI212T 14\" AMD Ryzen 7 5700U - 16GB RAM - 512GB Dysk - Win10",
+        "price": 4699.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 5700U 1,8 - 4,3 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 Pro 16ACH6 16\" 120Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - Win11",
+        "price": 3999.0,
+        "spec": {
+            "Ekran": "16 cali,  2560 x 1600 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 16X M7600QE-L2014X OLED 16\" AMD Ryzen 9 5900HX - 32GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win11 Pro",
+        "price": 8199.0,
+        "spec": {
+            "Ekran": "16 cali,  3840 x 2400 pikseli",
+            "Procesor": "AMD Ryzen\u2122 9 5900HX 3,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Professional"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6H 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB SSD Dysk - RTX3060 Grafika - Win11",
+        "price": 6299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell XPS 13 9310-3079 13,4\" Intel\u00ae Core\u2122 i5-1135G7 - 8GB RAM - 256GB Dysk - Win10",
+        "price": 6979.0,
+        "spec": {
+            "Ekran": "13,4 cala, ekran dotykowy 1920 x 1200 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Modern 15 A11MU-1041PL 15,6\" Intel\u00ae Core\u2122 i5-1155G7 - 16GB RAM - 1TB Dysk - Win11",
+        "price": 3799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1155G7 2,5 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop MSI Katana GF66 11UE-099PL 15,6\"144Hz Intel\u00ae Core\u2122 i7-11800H - 16GB RAM - 512GB Dysk - RTX3060 Grafika - Win10",
+        "price": 6099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + Intel UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Dell G15 5520-6655 15,6\" 120Hz Intel\u00ae Core\u2122 i5-12500H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 5499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i5 12gen 12500H 3,3 - 4,5 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro 14X M7400QE-KM031R OLED 14\" AMD Ryzen 9 5900HX - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win10 Pro",
+        "price": 6999.0,
+        "spec": {
+            "Ekran": "14 cali,  2880 x 1800 pikseli 90 Hz",
+            "Procesor": "AMD Ryzen\u2122 9 5900HX 3,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX 3050 Ti + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Professional"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 16,2\" Apple M1 Pro - 16GB RAM - 512GB Dysk - macOS (gwiezdna szaro\u015b\u0107)",
+        "price": 13999.0,
+        "spec": {
+            "Ekran": "16,2 cala,  3456 x 2234 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (16-rdzeni)",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop ASUS ROG Strix G15 2022 G513RM-HQ064W 15,6\" 165Hz AMD Ryzen 7 6800H - 16GB RAM - 1TB Dysk - RTX3060 Grafika - Win11",
+        "price": 6799.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 6800H 3,2 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR5 4800 Mhz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN517-54-78PL 17,3\" 144Hz Intel\u00ae Core\u2122 i7-11800H - 32GB RAM - 1TB SSD Dysk - RTX3070 Grafika - Win10",
+        "price": 8999.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo ThinkPad E15 Gen2 15,6\" Intel\u00ae Core\u2122 i5-1135G7 - 16GB RAM - 512GB Dysk - Win11 Pro",
+        "price": 4399.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 1135G7 2,4 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Professional"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 512GB Dysk - RTX3050 Grafika",
+        "price": 4599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" 120Hz AMD Ryzen 5 5600H - 16GB RAM - 512GB Dysk - RTX3050Ti Grafika - Win10",
+        "price": 4099.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 120 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 14,2\" Apple M1 Pro - 16GB RAM - 1TB Dysk - macOS (gwiezdna szaro\u015b\u0107) US",
+        "price": 13299.0,
+        "spec": {
+            "Ekran": "14,2 cala,  3024 x 1964 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (16-rdzeni)",
+            "Dysk": "1 TB",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Apple MacBook Pro 2021 16,2\" Apple M1 Pro - 16GB RAM - 1TB Dysk - macOS (gwiezdna szaro\u015b\u0107) US",
+        "price": 13999.0,
+        "spec": {
+            "Ekran": "16,2 cala,  3456 x 2234 pikseli 120 Hz",
+            "Procesor": "Apple M1 Pro",
+            "Pami\u0119\u0107": "16 GB   RAM",
+            "Grafika": "Apple M1 Pro (16-rdzeni)",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "macOS Monterey lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 3 17ITL6 17,3\" Intel\u00ae Core\u2122 i3-1115G4 - 8GB RAM - 512GB Dysk - Win10",
+        "price": 2449.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1600 x 900 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i3 11gen 1115G4 3,0 - 4,1 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "Intel\u00ae UHD Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Acer Chromebook Spin 514 CP514-1H-R4WS 14\" AMD Athlon 3050C - 8GB RAM - 128GB Dysk - ChromeOS",
+        "price": 1999.0,
+        "spec": {
+            "Ekran": "14 cali, ekran dotykowy 1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Athlon\u2122 3050C 2,3 - 3,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "128 GB SSD",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop Acer Nitro 5 AN515-45-R0QV 15,6\" 144Hz AMD Ryzen 5 5600H 16GB RAM - 512GB Dysk - RTX3060 Grafika",
+        "price": 5699.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3060 + AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Huawei MateBook 13 13\" AMD Ryzen 7 3700U - 16GB RAM - 512GB Dysk - Win10",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "13 cali,  2160 x 1440 pikseli",
+            "Procesor": "AMD Ryzen\u2122 7 3700U 2,3 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 2666 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 RX Vega 10 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Home Edition"
+        }
+    },
+    {
+        "name": "Acer Chromebook 514 CB514-1H-P704 14\" Intel\u00ae Pentium\u2122 N4200 - 8GB RAM - 128GB Dysk - ChromeOS",
+        "price": 1499.0,
+        "spec": {
+            "Ekran": "14 cali,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "Intel\u00ae Pentium\u00ae N4200 1,1 - 2,5 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Intel\u00ae HD Graphics 505",
+            "Dysk": "128 GB eMMC",
+            "System operacyjny": "Chrome OS"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 17-ck0232nw 17,3'' 144Hz Intel\u00ae Core\u2122 i7-11800H - 32GB RAM - 1TB Dysk - RTX3070 Grafika",
+        "price": 8849.0,
+        "spec": {
+            "Ekran": "17,3 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro K3400PH-KP119W 14\" Intel\u00ae Core\u2122 i7-11370H - 16GB RAM - 512GB Dysk - GTX1650 Grafika - Win11",
+        "price": 4199.0,
+        "spec": {
+            "Ekran": "14 cali,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11370H 3,3 - 4,8 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX 1650 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop LG Gram 17'' 2021 17Z90P-G.AA89Y Intel\u00ae Core\u2122 i7-1165G7 - 16GB RAM - 1TB SSD Dysk - Win11",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "17 cali,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 1165G7 2,8 - 4,7 GHz",
+            "Pami\u0119\u0107": "16 GB  LPDDR4X RAM",
+            "Grafika": "Intel\u00ae Iris Xe Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP 15s-eq2192nw 15,6\" AMD Ryzen 5 5500U - 16GB RAM - 1TB Dysk - Win11",
+        "price": 3299.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5500U 2,1 - 4,0 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad Gaming 3 15ACH6 15,6\" AMD Ryzen 5 5600H - 8GB RAM - 512GB Dysk - RTX3050Ti Grafika",
+        "price": 3599.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "8 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop HP EliteBook 855 G8 15,6\" AMD Ryzen 5 5600U - 16GB RAM - 512GB Dysk - Win10 Pro",
+        "price": 4349.0,
+        "spec": {
+            "Ekran": "15,6 cala,  1920 x 1080 pikseli",
+            "Procesor": "AMD Ryzen\u2122 5 5600U 2,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "AMD Radeon\u2122 Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 10 Professional"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 5 5600H - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 5199.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop HP OMEN 16-b0222nw 16,1' 144Hz Intel\u00ae Core\u2122 i7-11800H - 32GB RAM - 1TB SSD Dysk - RTX3070 Grafika",
+        "price": 7499.0,
+        "spec": {
+            "Ekran": "16,1 cala,  1920 x 1080 pikseli 144 Hz",
+            "Procesor": "Intel\u00ae Core\u2122 i7 11gen 11800H 2,3 - 4,6 GHz",
+            "Pami\u0119\u0107": "32 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3070 + Intel UHD Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "bez systemu"
+        }
+    },
+    {
+        "name": "Laptop Lenovo IdeaPad 5 Pro 16ACH6 16\" AMD Ryzen 5 5600H - 16GB RAM - 1TB SSD Dysk - GTX1650 Grafika - Win11",
+        "price": 4249.0,
+        "spec": {
+            "Ekran": "16 cali,  2560 x 1600 pikseli 60 Hz",
+            "Procesor": "AMD Ryzen\u2122 5 5600H 3,3 - 4,2 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX 1650 + AMD Radeon\u2122 Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop ASUS Vivobook Pro K3400PH-KP116W 14\" Intel\u00ae Core\u2122 i5-11300H - 16GB RAM - 512GB Dysk - GTX1650 Grafika - Win11",
+        "price": 4149.0,
+        "spec": {
+            "Ekran": "14 cali,  2560 x 1600 pikseli",
+            "Procesor": "Intel\u00ae Core\u2122 i5 11gen 11300H 3,1 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 RAM",
+            "Grafika": "NVIDIA\u00ae GeForce GTX 1650 + Intel Iris Xe Graphics",
+            "Dysk": "512 GB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    },
+    {
+        "name": "Laptop Apple Macbook Air M1 13,3\" Apple M1 - 8GB RAM - 256GB Dysk - macOS (srebrny)",
+        "price": 5599.0,
+        "spec": {
+            "Ekran": "13,3 cala,  2560 x 1600 pikseli",
+            "Procesor": "Apple M1 M1",
+            "Pami\u0119\u0107": "8 GB  DDR4 RAM",
+            "Grafika": "Apple M1 (7-rdzeni)",
+            "Dysk": "256 GB SSD",
+            "System operacyjny": "macOS Big Sur lub nowszy"
+        }
+    },
+    {
+        "name": "Laptop Lenovo Legion 5 15ACH6 15,6\" 165Hz AMD Ryzen 7 5800H - 16GB RAM - 1TB Dysk - RTX3050Ti Grafika - Win11",
+        "price": 5499.0,
+        "spec": {
+            "Ekran": "15,6 cala,  2560 x 1440 pikseli 165 Hz",
+            "Procesor": "AMD Ryzen\u2122 7 5800H 3,2 - 4,4 GHz",
+            "Pami\u0119\u0107": "16 GB  DDR4 3200 MHz RAM",
+            "Grafika": "NVIDIA\u00ae GeForce RTX\u2122 3050 Ti + AMD Radeon\u2122  Graphics",
+            "Dysk": "1 TB SSD",
+            "System operacyjny": "Windows 11 Home Edition"
+        }
+    }
+]
